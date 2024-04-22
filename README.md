@@ -76,6 +76,7 @@ The output will be a single line containing the order in which the players are p
 **Examples:**
 
 |**Input**|**Output**|
+| - | - |
 |<p>5</p><p>3 2 1 5 4 </p><p>3</p>|3 2 4 5 1|
 |<p>4</p><p>1 2 3 4 </p><p>1</p>|4 2 3 1|
 |<p>10</p><p>8 7 6 2 3 4 1 9 10 5 </p><p>4</p>|8 7 6 5 3 4 19 10 2|
