@@ -1,1 +1,1 @@
-These problems were created for Data Structure and Algorithm Lab
+These problems were created for Data Structures and Algorithms Lab
