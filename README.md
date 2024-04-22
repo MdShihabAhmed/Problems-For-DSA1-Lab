@@ -25,10 +25,10 @@ The output will be a single integer, the number of times the phrase, “Idon’t
 |**Input**|**Output**|
 | - | - |
 |2<br>1 2|0|
-|<p>3</p><p>3 2 1</p>|3|
-|<p>3</p><p>2 1 3</p>|2|
-|<p>8</p><p>3 2 4 7 8 1 6 5</p>|18|
-|<p>5</p><p>1 2 3 5 4</p>|1|
+|3<br>3 2 1|3|
+|3<br>2 1 3|2|
+|8<br>3 2 4 7 8 1 6 5|18|
+|5<br>1 2 3 5 4|1|
 
 **Explanation:**
 
@@ -77,9 +77,9 @@ The output will be a single line containing the order in which the players are p
 
 |**Input**|**Output**|
 | - | - |
-|<p>5</p><p>3 2 1 5 4 </p><p>3</p>|3 2 4 5 1|
-|<p>4</p><p>1 2 3 4 </p><p>1</p>|4 2 3 1|
-|<p>10</p><p>8 7 6 2 3 4 1 9 10 5 </p><p>4</p>|8 7 6 5 3 4 19 10 2|
+|5<br>3 2 1 5 4<br>3|3 2 4 5 1|
+|4<br>1 2 3 4<br>1|4 2 3 1|
+|10<br>8 7 6 2 3 4 1 9 10 5<br>4|8 7 6 5 3 4 19 10 2|
 
 
 **Explanation:**
@@ -144,12 +144,12 @@ The output will consist of two lines. The first line will be a single integer, t
 
 |**Input**|**Output**|
 | - | - |
-|<p>3</p><p>2 13</p>|<p>7</p><p>3 2 1</p>|
-|<p>3</p><p>100 4 1</p>|<p>3</p><p>100 4 1</p>|
-|<p>3</p><p>14 100</p>|<p>9</p><p>100 4 1</p>|
-|<p>6</p><p>3 29 13 2 4 7</p>|<p>20</p><p>29 13 7 4 3 2</p>|
-|<p>10</p><p>98 99 5 72 79 52 55 27 60 93</p>|<p>48</p><p>99 98 93 79 72 60 55 52 27 5</p>|
-|<p>5</p><p>5 4 3 2 1</p>|<p>5</p><p>5 4 3 2 1</p>|
+|3<br>2 1 3|7<br>3 2 1|
+|3<br>100 4 1|3<br>100 4 1|
+|3<br>1 4 100|9<br>100 4 1|
+|6<br>3 29 13 2 4 7|20<br>29 13 7 4 3 2|
+|10<br>98 99 5 72 79 52 55 27 60 93|48<br>99 98 93 79 72 60 55 52 27 5|
+|5<br>5 4 3 2 1|5<br>5 4 3 2 1|
 
 **Explanation:!**
 
