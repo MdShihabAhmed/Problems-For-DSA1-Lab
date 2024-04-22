@@ -1,5 +1,5 @@
 # ProblemSet
-**Problem 1:Sinthia's Game Adventure (I Dont Like This Game)**
+## Problem 1: Sinthia's Game Adventure (I Dont Like This Game)
 
 **Problem Statement:**
 
@@ -9,7 +9,7 @@ In this game, N players are given a number between 1 to N, and placed in a line 
 
 Your task is to find the number of times the phrase, “I don’t like this game” will be screamed in the classroom before the game ends.
 
-**Note:See sample input-output for better understanding.**
+**Note: See sample input-output for better understanding.**
 
 **Input:**
 
@@ -48,7 +48,7 @@ Line:[3]->Now again, the player with the number 3 is in the front, but this time
 
 Line:[]->As no players are remaining in the line, the game is over.
 
-**Problem 2:Sinthia's Game Adventure (It Was You)**
+## Problem 2: Sinthia's Game Adventure (It Was You)
 
 **Problem Statement:**
 
@@ -60,8 +60,8 @@ For this reason, he/she was given the power to choose any player from the line w
 
 Your task is to use a data structure that will help them to do as described above and show their pointing order in the end.
 
-**Note 1:They can not change theirplaces, but only their pointings.**
-**Note 2:See sample input-output for better understanding.**
+**Note 1: They can not change theirplaces, but only their pointings.**
+**Note 2: See sample input-output for better understanding.**
 
 **Input:**
 
@@ -103,7 +103,7 @@ After swapping, the pointing is like below:
 
 So they swapped their pointings.
 
-**Problem 3:Sinthia's Game Adventure (One Rod Hanoi)**
+## Problem 3: Sinthia's Game Adventure (One Rod Hanoi)
 
 **Problem Statement:**
 
