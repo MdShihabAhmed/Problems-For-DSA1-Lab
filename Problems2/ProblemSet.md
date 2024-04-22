@@ -66,8 +66,8 @@ Your task is to use a data structure that will help them to do as described abov
 **Input:**
 
 - The first line of the input will have an integer ‘N’(1 <=N <=1000):the number of players
-- The second line of the input will be a list of ‘N’space-separated integers a[i] (1 <=a[i] <=N):the numbers given to the players
-- The third line of the input will be an integer ‘B’((1 <=B <=N):The chosen player by the last player.
+- The second line of the input will be a list of ‘N’space-separated integers a[i] (3 <=a[i] <=N):the numbers given to the players
+- The third line of the input will be an integer ‘B’((1 <=B <=N-2):The chosen player by the last player.
 
 **Output:**
 
