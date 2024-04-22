@@ -24,7 +24,7 @@ The output will be a single integer, the number of times the phrase, “Idon’t
 
 |**Input**|**Output**|
 | - | - |
-|<p>2</p><p>1 2</p>|0|
+|2<br>1 2|0|
 |<p>3</p><p>3 2 1</p>|3|
 |<p>3</p><p>2 1 3</p>|2|
 |<p>8</p><p>3 2 4 7 8 1 6 5</p>|18|
